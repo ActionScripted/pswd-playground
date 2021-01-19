@@ -1,2 +1,2 @@
-# pswd-playground
-PSWD demo and testing
+# PSWD Playground
+PSWD demo and testing. Doing stuff.
